@@ -183,7 +183,7 @@
         },
         "AzureOpenAISystemMessage": {
             "type": "string",
-            "defaultValue": "You are an AI assistant that helps people find information.",
+            "defaultValue": "You are an AI assistant that helps people at MM Group find useful information.",
             "metadata": {
                 "description": "Azure OpenAI System Message"
             }
